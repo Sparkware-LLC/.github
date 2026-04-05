@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Sparkware-Favicon-removedbg-black.png" width="80" alt="Sparkware Logo" />
+<img src="Sparkware-Favicon-RemovedBg-Black-Logo.png" width="80" alt="Sparkware Logo" />
 
 # Sparkware
 
