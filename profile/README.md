@@ -40,7 +40,7 @@ Everything we ship is made with attention to detail — from first launch to lon
 <!-- Add your projects here as they go public -->
 | Project | Platform | Description | Status |
 |---------|----------|-------------|--------|
-| coming soon | — | — | — |
+| ProtoSky | Android | All in one Productive App | Beta |
 
 ---
 
