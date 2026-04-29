@@ -33,17 +33,6 @@ Everything we ship is made with attention to detail — from first launch to lon
 
 ---
 
-## Projects
-
-> Our public projects are listed below. Check the pinned repos for the latest.
-
-<!-- Add your projects here as they go public -->
-| Project | Platform | Description | Status |
-|---------|----------|-------------|--------|
-| ProtoSky | Android | All in one Productive App | Beta |
-
----
-
 ## Philosophy
 
 - **Simple over clever** — if it needs a manual, it needs a redesign
